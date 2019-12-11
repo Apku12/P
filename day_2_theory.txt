@@ -1,0 +1,81 @@
+									Python Programming
+																	Day 2
+Q.6 What are Constants(Data Types) and how all works?
+	=>	Constants are those values which are never going to be changed they remain static 
+		once defined.
+		e.g: 1 , 'a', 'sentence', 2.32154 etc.
+
+	=> There are total 3 types of Constants: 
+		1> Integer
+		2> Float
+		3> String
+
+	=>	Rules for constructing Integer Constants:
+		-> Integers must not written inside Quotes''
+		-> Integers must not contain any decimal point.
+		-> Integers must have atleast one digit.
+		e.g: 1, 231, 0, -1
+
+	=>	Rules for constructing Float Constants:
+		-> Floats must not written inside Quotes''
+		-> Floats must contain decimal point.
+		-> Floats must have atleast one digit with one decimal point.
+		e.g: 1.0, 231.235, 0.0, -1.2641546876876
+
+	=> Rules for constructing String Constants:
+		-> String must written inside Quotes''
+		-> String atleast have one charachter.
+		e.g: '1', "This is demo sentence.", 'c', "-1 + 2"
+
+	Mostly in python constants are the things which are going to displayed over screen or they might 
+	be values as parameter of your function which we will look later in this course.
+
+Q.7 What are Variables and how all works?
+	=>	Variables are dynamic values which are going to be changed as per situation or condition has
+		occours during execution of programe.
+
+	=> 	Simply they store values in themselves.
+
+	=>	They are like containers which will going to store any value within themselves 
+		used in our code for better understanding of code and to imporve our code's readabilty and making it more English friendly.
+
+		Syntax : <Variable_Name> = <Variable_Value> 		//Grammer for defining a variable.
+			
+			e.g: my_variable = 'Some Value'
+
+	=>	Rules for constructing Varables:
+		-> Variable name must not start with any integer
+		-> Variable name must contain any space.
+		-> Variable name must not contain any special charachter excepting underscore '_'
+		-> Variable name must be on left side and value must be on right side.
+		-> Variable name can be anything excepting preseved keywords.
+	
+	=> Benifits of variable:
+		-> Variable can reduce size of code.
+		-> Variable imporves our code's readabilty.
+		-> Variable help us to manage & access our data in more productive way
+
+	=> Variable can contain any value like: 1> String
+											2> Integers
+											3> Floats
+											4> Functions
+											5> Classes
+
+Q.8 What is comment and how all works?
+	=> Comments are lines which will never be compiled by our compiler python has nothing to do with
+		it. they used inside code for giving understanding of our thoughts behind that code.
+
+	=> There are 2 types of comment:
+		1> Single Line Comment
+		2> Multiline Comment
+
+	1> Single Line Comment:
+		-> They can be placed anywhere within the code using '#' symbol if you put hash-symbol before
+			any line it will become a single line comment.
+
+			e.g : # This is a single line comment.
+
+	2> Multiline Comment:
+		-> They need to be placed in new line every time you use it and they can be accessed by 
+			(''' ''') Triple quotes starting and Triple quotes ending it nesscary to end Triple
+			quotes as well.
