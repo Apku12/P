@@ -1,0 +1,65 @@
+									Python Programming
+																	Day 1
+
+Q.1 What is Programming?
+	=> Programming is process of making programs.
+		
+		Program : Program is just well organised set of instructions.
+		Instruction : Our Thoughts in form of conditions to get disired output.
+
+Q.2 Why we need to do Programming?
+	=> Programming is superpower today which give us capabilities of 
+		making automation in daily tasks,
+		making Gui Application,
+		making Web Application,
+		making Mobile Application,
+		making Robotic Stuff (Arduino,Rasberry Pi etc.),
+		.... other reseach stuff also .......
+
+Q.3 How to do Programming?
+	=> To do programming we need first of all programming language installed in our pc,
+		(in our case it python) Just like any software we install in pc.
+		
+	=>By installing python in pc we are actually installing syntax of python 
+		programming language.
+
+		Syntax : Grammer of programming language.
+
+Q.4 Where to do Programming?
+	=> Once we have installed a programming language in our pc we can write our 
+		code in any text-editor(notepade, wordpad) like software already installed in our pc or	we can use python's own console to write a code.
+
+	#IMPORTANT
+		Here extension plays a big role you must have to save your code with
+		specific extension only in our case we ".py".
+
+		Extenstion : Indicates type of File.
+			e.g : file1.txt <------ text file
+			e.g : file2.py <------ python file
+
+	There are other Third party text-editor available in market made only for
+	coding with functionalities like syntax highlighting etc..
+
+	My suggestion:  Sublime Text-Editor 3
+					VS-CODE
+					PyCharm
+
+//TODO//////Now we will install both python programming language & Sublime 3 in your pc.
+
+Q.5 What we are going to write in our code?
+	=>  Constants:
+				- Integers
+				- Float
+				- String
+		Variables:
+				- Global
+				- Local
+		Opreators:
+				- Arithmatic Opreators (+,-,*,/)
+				- Assignment Opreators (=)
+				- Relational Opreators (>, <, ==, >=, <=, !=)
+				- Logical Opreators ( and, or, not)
+				- Bitwise Opreators (True, False)
+		Pre-define Functions and Self-made Functions: print() etc..
+		Class: we look later ....
+
